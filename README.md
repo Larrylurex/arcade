@@ -1,4 +1,4 @@
-Here's a Command Line based role playing game
+Here's a Command Line based role playing game.
 To run - build project with gradle and execute jar file as follows:
 java -jar snowman.jar
 
