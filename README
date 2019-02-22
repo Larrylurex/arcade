@@ -16,7 +16,7 @@ If current Stage is stopped go to the next one (if it exists)
 
 Restrictions and Limitations:
 Currently tested on Mac Terminal only, May not work correctly on other Terminals!
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Start.png|alt=start]]
+![alt=start](https://github.com/Larrylurex/arcade/blob/master/screenshots/Start.png)
 [[https://github.com/Larrylurex/arcade/blob/master/screenshots/Story.png|alt=story]]
 [[https://github.com/Larrylurex/arcade/blob/master/screenshots/Characters.png|alt=characters]]
 [[https://github.com/Larrylurex/arcade/blob/master/screenshots/Round.png|alt=round]]
