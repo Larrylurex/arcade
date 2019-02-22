@@ -1,0 +1,19 @@
+███████╗███╗   ██╗ ██████╗ ██╗    ██╗███╗   ███╗ █████╗ ███╗   ██╗███████╗    ████████╗ █████╗ ██╗     ███████╗
+██╔════╝████╗  ██║██╔═══██╗██║    ██║████╗ ████║██╔══██╗████╗  ██║██╔════╝    ╚══██╔══╝██╔══██╗██║     ██╔════╝
+███████╗██╔██╗ ██║██║   ██║██║ █╗ ██║██╔████╔██║███████║██╔██╗ ██║███████╗       ██║   ███████║██║     █████╗
+╚════██║██║╚██╗██║██║   ██║██║███╗██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║       ██║   ██╔══██║██║     ██╔══╝
+███████║██║ ╚████║╚██████╔╝╚███╔███╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║███████║       ██║   ██║  ██║███████╗███████╗
+╚══════╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
+
+Once upon a time, when grass was greener and sun shone brighter,
+far far away in the ever-frost lands, a little snowman was born.
+He didn't know what to do, and had nowhere to go.
+The only thing he knew was that snowflakes made him stronger
+and it was better to keep away from the fire-monster
+That's when his lonely journey begins...
+
+Remember:
+* Collect at least 3 snowflakes (❄) to go to the next round through the portal (☗ )
+* Fight with fire monster: if you win your level will grow, if you lose you lose your health (♥)
+* The higher your level is - the higher your chances to beat fire monster (⚔ ) are
+* If your health is low - look for the hearts (♥)
