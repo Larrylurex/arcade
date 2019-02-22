@@ -15,4 +15,4 @@ Show the view for specified Context
 If current Stage is stopped go to the next one (if it exists)
 
 Restrictions and Limitations:
-Currently tested on Mac Terminal only, Ma not work correctly on other Terminals!
+Currently tested on Mac Terminal only, May not work correctly on other Terminals!
