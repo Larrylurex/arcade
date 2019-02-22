@@ -12,6 +12,7 @@ repositories {
 }
 
 jar {
+    archiveName = 'snowman.jar'
     manifest {
         attributes(
                 'Main-Class': 'dmitry.borodin.console.game.Main'

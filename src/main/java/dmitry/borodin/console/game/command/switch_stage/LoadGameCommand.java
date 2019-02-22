@@ -32,7 +32,7 @@ public class LoadGameCommand<T extends LoadGameContext> extends SwitchStageComma
         int from = context.getCurrentPage() * context.getPageSize();
         int to = from + context.getPageSize();
         return selectedGame >= from &&
-                selectedGame < to;
+                selectedGame < to && selectedGame < context.getCurrentPageUsers().size();
     }
 
     @Override
