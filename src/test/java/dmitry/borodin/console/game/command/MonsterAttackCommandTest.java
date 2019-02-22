@@ -75,6 +75,7 @@ public class MonsterAttackCommandTest {
         context.setPlayer(player);
 
         Enemy enemy  = new Enemy();
+        enemy.setLevel(10);
         context.setEnemy(enemy);
         command.apply(context);
 
