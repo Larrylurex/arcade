@@ -19,10 +19,9 @@ Currently tested on Mac Terminal only, May not work correctly on other Terminals
 
 Screenshots:
 
-![alt=start](./screenshots/Start.png)
-
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Story.png|alt=story]]
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Characters.png|alt=characters]]
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Round.png|alt=round]]
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Fight.png|alt=fight]]
-[[https://github.com/Larrylurex/arcade/blob/master/screenshots/Won.png|alt=won]]
+![alt=Start](./screenshots/Start.png)
+![alt=Story](screenshots/Story.png)
+![alt=Characters](screenshots/Characters.png)
+![alt=Round](screenshots/Round.png)
+![alt=Fight](screenshots/Fight.png)
+![alt=Won](screenshots/Won.png)
